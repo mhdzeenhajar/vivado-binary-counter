@@ -1,0 +1,16 @@
+# Vivado generated files
+*.jou
+*.log
+*.str
+*.backup
+*.db
+*.pb
+*.wdb
+*.os
+
+# Folders to ignore
+.Xil/
+.cache/
+.hw/
+.ip_user_files/
+.sim/
